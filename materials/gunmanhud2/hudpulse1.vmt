@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+   "$basetexture" "gunmanhud2/hudpulse1"
+   "$additive" "1"
+}
